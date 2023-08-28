@@ -136,6 +136,12 @@ namespace nrtlinq
             
 
         }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            textBox3.Text = "iyi günler cnm";
+            MessageBox.Show("hoşgeldiniz cnm ...");
+        }
     }
     }
 
